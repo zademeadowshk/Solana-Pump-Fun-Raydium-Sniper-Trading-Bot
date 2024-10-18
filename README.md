@@ -1,6 +1,7 @@
 # Solana-Pump-Fun-Raydium-Sniper-Trading-Bot
 Our Solana Pump Fun Raydium Sniper Trading Bot is a software tool that is designed to Snipe Tokens Just Before Public Launch based on factors like transaction made, Market Cap, Liquidity Pool, Mint Renounced, Burned, Freeze/Lock, Etc and automate the buying and selling of them to gain quick profits!
 
+![Screenshot](bot.png)
 
 ## Trading Strategy
 
