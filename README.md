@@ -3,7 +3,7 @@ Our Solana Pump Fun Raydium Sniper Trading Bot is a software tool that is design
 
 ![Screenshot](bot.png)
 
-## Trading Strategy
+## Trading Strategy 
 
 - **Initial Buy**: The bot scrapes pump.fun to identify new token pairs with favorable bonding curves.
 - **Monitoring**: Once a token is bought, the bot monitors the market cap and bonding curve progress.
