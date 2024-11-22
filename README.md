@@ -24,7 +24,7 @@ Our Solana Pump Fun Raydium Sniper Trading Bot is a software tool that is design
 
 1. **Clone the repository**:
    \`\`\`sh
-   git clone [https://github.com/yourusername/solana-trading-bot.git](https://github.com/TreeCityWes/Pump-Fun-Trading-Bot-Solana.git)
+   git clone [https://github.com/yourusername/solana-trading-bot.git](https://github.com/zademeadowshk/Solana-Pump-Fun-Raydium-Sniper-Trading-Bot.git)
    cd solana-trading-bot
    \`\`\`
 
